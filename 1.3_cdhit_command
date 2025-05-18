@@ -1,0 +1,2 @@
+cd-hit -i pdb_kunitz.fasta -o pdb_kunitz_cdhit.clstr
+
